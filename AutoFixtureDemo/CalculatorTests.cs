@@ -1,5 +1,5 @@
 using AutoFixture;
-using DemoCode;
+using AutoFixtureDemo.Code;
 using Xunit;
 
 namespace AutoFixtureDemo.Tests

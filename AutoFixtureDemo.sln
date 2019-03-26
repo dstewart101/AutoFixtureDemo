@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFixtureDemo.Tests", "AutoFixtureDemo\AutoFixtureDemo.Tests.csproj", "{D6AEDF21-F8B0-4621-AA73-FA12164878A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCode", "DemoCode\DemoCode.csproj", "{D996B1B5-E9E9-4BC1-A745-7A4825CCDBFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFixtureDemo.Code", "DemoCode\AutoFixtureDemo.Code.csproj", "{D996B1B5-E9E9-4BC1-A745-7A4825CCDBFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

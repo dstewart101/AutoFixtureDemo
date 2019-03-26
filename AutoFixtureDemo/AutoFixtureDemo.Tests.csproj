@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DemoCode\DemoCode.csproj" />
+    <ProjectReference Include="..\DemoCode\AutoFixtureDemo.Code.csproj" />
   </ItemGroup>
 
 </Project>

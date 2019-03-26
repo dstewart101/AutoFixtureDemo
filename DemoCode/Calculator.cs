@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DemoCode
+﻿
+namespace AutoFixtureDemo.Code
 {
     public class Calculator
     {
