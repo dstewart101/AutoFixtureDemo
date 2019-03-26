@@ -10,7 +10,7 @@ namespace AutoFixtureDemo.Tests
         public void Traditional()
         {
             //arrange
-            var sut = new Calculator();
+            var sut = new IntCalculator();
 
             //act
             sut.Subtract(1);
@@ -23,7 +23,7 @@ namespace AutoFixtureDemo.Tests
         public void Manual_Anonymous_Data()
         {
             //arrange
-            var sut = new Calculator();
+            var sut = new IntCalculator();
             var anonymousNumber = 394;
 
             //act
@@ -37,7 +37,7 @@ namespace AutoFixtureDemo.Tests
         public void AutoFixture_Anonymous_Data()
         {
             //arrange
-            var sut = new Calculator();
+            var sut = new IntCalculator();
             var fixture = new Fixture();
 
             //act
